@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/Robofild" target="_blank"><img src="https://img.shields.io/github/followers/robofild?label=Antigo%20repositorio&style=social" target="_blank"></a> 
    <a href="https://linkedin.com/in/dev-ops-ads-joao-batista-lima-junior/" target="linkdedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/devopsads/devopsads/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
  
 
 
