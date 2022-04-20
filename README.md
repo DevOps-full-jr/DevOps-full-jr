@@ -23,12 +23,16 @@ Here are some ideas to get you started:
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Joao-reactNative" height="30" width="40"src="https://akashmittal.com/wp-content/uploads/2022/01/react-native-final-file-950x500.jpg?ezimgfmt=rs:623x328/rscb7/ng:webp/ngcb7"> 
-   <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Joao-Node.js" height="30" width="40" src="https://www.clipartmax.com/png/full/89-894960_js-discord-bot-logo-node-js-and-react-js.png">
-    <img align="center" alt="joao-MongoDb" height="30" width="40" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
-     <img align="center" alt="João-PostgreSQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
+  <img align="center" alt="reactNative" height="30" width="40"src="https://akashmittal.com/wp-content/uploads/2022/01/react-native-final-file-950x500.jpg?ezimgfmt=rs:623x328/rscb7/ng:webp/ngcb7"> 
+   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Node.js" height="30" width="40" src="https://www.clipartmax.com/png/full/89-894960_js-discord-bot-logo-node-js-and-react-js.png">
+    <img align="center" alt="MongoDb" height="30" width="40" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld">
+     <img align="center" alt="PostgreSQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
+    <img align="center" alt="sqlite" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png">
+    <img align="center" alt="prisma" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg">
+    <img align="center" alt="socketio" height="30" width="40" src="https://miro.medium.com/max/812/0*xAADmPJN52Yy6XJV.jpg">
+ <img align="center" alt="-ajax" height="30" width="40" src="https://blog.apiki.com/wp-content/uploads/sites/2/2015/07/ajax-fa%C3%A7a-do-jeito-certo.png">
   
 <img align="right" alt="Joao-pic_react" height="150" style="border-radius:50px;" src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687419/regular_800x320_REDESIGN-ReactNativePerformance-Luke_Newsletter-b188785eb990868e1e672230e8bbe740.png? width=676&height=676">
 </div>
